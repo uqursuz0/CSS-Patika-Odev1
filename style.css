@@ -1,0 +1,98 @@
+.navs{
+    float: left;
+    display: flex;
+    position: relative;
+    margin-left:  5%;
+    font-size: 200%;
+}
+article{
+    align-items: center;
+    margin-left: 30%;
+}
+header{
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    color: white;
+}
+body{
+    margin: auto;
+    background-color: black;
+
+}
+nav{
+    margin: auto;
+    left: 30%;
+    position: relative;
+}
+.box{
+    border: 1px;
+    margin-left:10% ;
+    padding: 10%;
+    border-style: solid;
+    position: relative;
+    display: flex;
+    color: blue;
+    text-decoration: none;
+    background-color: yellow;
+
+}
+footer{
+    position: absolute;
+    bottom: 3%;
+    width: 100%;
+    align-items: center;
+    font-size: 150%;
+    left: 35%;
+}
+.nays{
+    float: left;
+    display: flex;
+    margin-left: 3%;
+}
+#yazi{
+    color:white  ;
+    margin:0%;
+}
+#baslik{
+    color: yellow;
+    position: relative;
+    margin: 15%;
+    top: 5%;
+    left:15%
+
+
+}
+#anayazi{
+    color:white  ;
+    margin: 15%;
+}
+#anabaslik{
+    color: yellow;
+    position: relative;
+    margin: 15%;
+    top: 5%;
+    left:15%;
+
+
+}
+#sayfasayfasi{
+    position: relative;
+    top: 50%;
+    margin-left: 25%;
+    margin-top: 25%;
+    color: yellow;
+}
+.sayfalist{
+    color: white;
+    margin: 0%;
+    position: relative;
+    list-style-position: inside;
+}
