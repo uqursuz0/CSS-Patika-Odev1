@@ -1,98 +1,38 @@
-.navs{
-    float: left;
-    display: flex;
-    position: relative;
-    margin-left:  5%;
-    font-size: 200%;
+#logo{
+width: 351px;
+height: 113px;
+aspect-ratio: auto 351/113;
 }
-article{
-    align-items: center;
-    margin-left: 30%;
+#gsearch{
+    writing-mode: horizontal-tb !important;
 }
-header{
-    align-items: center;
-    display: flex;
+#dlogo{
     text-align: center;
-    margin: auto;
 }
-h1{
-    align-items: center;
+#tab{
+    border: 0;
+    width: 90%;
     text-align: center;
-    display: flex;
-    margin: auto;
-    color: white;
-}
-body{
-    margin: auto;
-    background-color: black;
+    margin:0% auto ;
 
 }
-nav{
-    margin: auto;
-    left: 30%;
-    position: relative;
+#td1{
+    width: 37%;
+    background-color: #7ee5da;
+    height: 100%;
+    text-align: center;
 }
-.box{
-    border: 1px;
-    margin-left:10% ;
-    padding: 10%;
-    border-style: solid;
-    position: relative;
-    display: flex;
-    color: blue;
-    text-decoration: none;
-    background-color: yellow;
-
+#td2{
+    font-size: -1;
+    text-align: center;
+    background-color: #70ccc2;
 }
-footer{
-    position: absolute;
-    bottom: 3%;
-    width: 100%;
-    align-items: center;
-    font-size: 150%;
-    left: 35%;
+#td3{
+    font-size: -1;
+    text-align: center;
+    background-color: #62b3aa;
 }
-.nays{
-    float: left;
-    display: flex;
-    margin-left: 3%;
-}
-#yazi{
-    color:white  ;
-    margin:0%;
-}
-#baslik{
-    color: yellow;
-    position: relative;
-    margin: 15%;
-    top: 5%;
-    left:15%
-
-
-}
-#anayazi{
-    color:white  ;
-    margin: 15%;
-}
-#anabaslik{
-    color: yellow;
-    position: relative;
-    margin: 15%;
-    top: 5%;
-    left:15%;
-
-
-}
-#sayfasayfasi{
-    position: relative;
-    top: 50%;
-    margin-left: 25%;
-    margin-top: 25%;
-    color: yellow;
-}
-.sayfalist{
-    color: white;
-    margin: 0%;
-    position: relative;
-    list-style-position: inside;
+#cont{
+    text-align: center;
+    align;
 }
